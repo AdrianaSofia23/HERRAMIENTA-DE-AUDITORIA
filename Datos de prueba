@@ -1,0 +1,7 @@
+datos_prueba = [
+    "Factura-001", "Factura-002", "Factura-003", "Factura-001",  # Duplicados
+    1500.50, 200.75, 5000.00, 100000.00,  # Montos de transacciones (anomalías)
+    "EMP-001", "EMP-002", "EMP-003", "EMP-ABC",  # Códigos de empleados (formato)
+    "Producto-A", "Producto-B", "Producto-C", "Producto-X",  # Productos (cumplimiento)
+    8, 9, 10, 25, -1  # Horarios de registro (auditoría horaria)
+]
