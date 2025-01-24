@@ -1,0 +1,21 @@
+Resultados Esperados
+
+   1. Prueba de duplicados:
+
+        Resultado: Elementos duplicados encontrados: {'Factura-001'}
+
+   2. Prueba de anomalías:
+
+        Resultado: Anomalías detectadas: [100000.0]
+
+   3. Prueba de formato:
+
+        Resultado: Datos con formato incorrecto: ['EMP-ABC']
+
+    4. Prueba de cumplimiento:
+
+        Resultado: Elementos faltantes para el cumplimiento: [] (Todos los requisitos están presentes).
+
+    5. Prueba de auditoría horaria:
+
+        Resultado: Horarios inválidos encontrados: [25, -1]
